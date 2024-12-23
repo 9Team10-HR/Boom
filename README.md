@@ -23,4 +23,6 @@ SMS Sender 2.0 is a robust platform designed for sending SMS requests to phone n
 - Simple and intuitive user interface
 ## Contact
 You can join my Telegram channel for updates and discussions:
-[![Telegram Channel](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)]([https://t.me/Termux_Team_BD])
+<a href="https://t.me/Termux_Team_BD" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Channel" width="30"/>
+</a>
