@@ -2,9 +2,8 @@
 
 SMS Sender 2.0 is a tool that allows users to send SMS requests to any phone number through an easy-to-use web interface. It's designed for quick, bulk sending of SMS requests for testing purposes.
 
-![SMS Sender Logo](https://i.postimg.cc/d1LdrL68/IMG-20241223-115503.jpg)]
-## TAP TO USE THE WEB 
-<a href="https://hr-bot1.github.io/testb/" target="_blank">
+![SMS Sender Logo](https://i.postimg.cc/d1LdrL68/IMG-20241223-115503.jpg)
+<a href="https://hr-bot1.github.io/testb/" target="_blank">Tap to USE WEB</a>
  
 
 ## Table of Contents
